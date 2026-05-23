@@ -17,7 +17,7 @@ Welcome to the official repository for Magma's technical redstone modpack. This 
 * It is highly recommended to import this pack using modern launchers like the **Modrinth App**.
 
 ### 2. Versioning & Legacy Builds
-* 🔄 **Outdated Versions:1.20.1** 
+* 🔄 **Outdated Versions:1.21.11** 
   If your current instance is outdated, please check the **Releases** tab of this GitHub repository for the latest stable drops and hotfixes.
 * 🛠️ **Issue Tracking:** 
   If you experience any mod conflicts, unexpected MSPT spikes, or client crashes while testing redstone components, feel free to open a ticket in the **Issues** tab.
