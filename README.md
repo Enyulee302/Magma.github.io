@@ -14,18 +14,10 @@ Welcome to the official repository for Magma's technical redstone modpack. This 
 
 ### 1. Acquiring the Latest Builds
 * Always download the official `.mrpack` files directly from this repository to ensure file integrity and security.
-* It is highly recommended to import this pack using modern launchers like **Prism Launcher** or the **Modrinth App**.
+* It is highly recommended to import this pack using modern launchers like the **Modrinth App**.
 
 ### 2. Versioning & Legacy Builds
-* 🔄 **Outdated Versions:** 
+* 🔄 **Outdated Versions:1.20.1** 
   If your current instance is outdated, please check the **Releases** tab of this GitHub repository for the latest stable drops and hotfixes.
 * 🛠️ **Issue Tracking:** 
   If you experience any mod conflicts, unexpected MSPT spikes, or client crashes while testing redstone components, feel free to open a ticket in the **Issues** tab.
-
----
-
-## 🚀 Quick Start
-
-1. Navigate to the **Releases** section on the right side of this page.
-2. Download the latest `Redstone_Pack_x.x.x.mrpack` file.
-3. Drag and drop the `.mrpack` file into your preferred launcher to automatically generate the instance.
